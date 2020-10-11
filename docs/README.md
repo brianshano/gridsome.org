@@ -42,8 +42,8 @@ Gridsome requires [Node.js](https://nodejs.org/) (v8.3+) and recommends [Yarn](h
 
 ### 1. Install Gridsome CLI tool
 
-- Using **YARN:** `yarn global add @gridsome/cli`
-- Using **NPM:** `npm install --global @gridsome/cli`
+- Using **YARN**: *`yarn global add @gridsome/cli`*
+- Using **NPM**: *`npm install --global @gridsome/cli`*
 
 ### 2. Create a Gridsome project
 
